@@ -1,4 +1,3 @@
-// Merge Sort Algorithm in C++
 #include <iostream>
 #include <vector>
 #include <random>
